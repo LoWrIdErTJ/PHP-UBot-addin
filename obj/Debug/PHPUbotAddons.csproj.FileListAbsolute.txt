@@ -1,0 +1,33 @@
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\bin\Debug\PHPUbotAddons.dll
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\bin\Debug\PHPUbotAddons.pdb
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\obj\Debug\PHPUbotAddons.dll
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\obj\Debug\PHPUbotAddons.pdb
+C:\Users\tjgaming\Desktop\PHPUbotAddon\bin\Debug\PHPUbotAddons.dll
+C:\Users\tjgaming\Desktop\PHPUbotAddon\bin\Debug\PHPUbotAddons.pdb
+C:\Users\tjgaming\Desktop\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+C:\Users\tjgaming\Desktop\PHPUbotAddon\obj\Debug\PHPUbotAddons.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\PHPUbotAddon\obj\Debug\PHPUbotAddons.dll
+C:\Users\tjgaming\Desktop\PHPUbotAddon\obj\Debug\PHPUbotAddons.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\PHPUbotAddon\bin\Debug\PHPUbotAddons.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\PHPUbotAddon\bin\Debug\PHPUbotAddons.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\PHPUbotAddon\obj\Debug\PHPUbotAddons.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\PHPUbotAddon\obj\Debug\PHPUbotAddons.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\PHPUbotAddon\obj\Debug\PHPUbotAddons.pdb
+C:\Users\miztaken\Desktop\PHPUbotAddon\bin\Debug\PHPUbotAddons.dll
+C:\Users\miztaken\Desktop\PHPUbotAddon\bin\Debug\PHPUbotAddons.pdb
+C:\Users\miztaken\Desktop\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+C:\Users\miztaken\Desktop\PHPUbotAddon\obj\Debug\PHPUbotAddons.csprojResolveAssemblyReference.cache
+C:\Users\miztaken\Desktop\PHPUbotAddon\obj\Debug\PHPUbotAddons.dll
+C:\Users\miztaken\Desktop\PHPUbotAddon\obj\Debug\PHPUbotAddons.pdb
+E:\Projs\PHPUbotAddon\bin\Debug\PHPUbotAddons.dll
+E:\Projs\PHPUbotAddon\bin\Debug\PHPUbotAddons.pdb
+E:\Projs\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+E:\Projs\PHPUbotAddon\obj\Debug\PHPUbotAddons.dll
+E:\Projs\PHPUbotAddon\obj\Debug\PHPUbotAddons.pdb
+E:\Projs\PHP Addon\Source\PHPUbotAddon\bin\Debug\PHPUbotAddons.dll
+E:\Projs\PHP Addon\Source\PHPUbotAddon\bin\Debug\PHPUbotAddons.pdb
+E:\Projs\PHP Addon\Source\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+E:\Projs\PHP Addon\Source\PHPUbotAddon\obj\Debug\PHPUbotAddons.dll
+E:\Projs\PHP Addon\Source\PHPUbotAddon\obj\Debug\PHPUbotAddons.pdb

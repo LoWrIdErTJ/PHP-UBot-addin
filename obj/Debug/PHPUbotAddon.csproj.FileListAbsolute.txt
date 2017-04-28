@@ -1,0 +1,5 @@
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\bin\Debug\PHPUbotAddon.dll
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\bin\Debug\PHPUbotAddon.pdb
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\obj\Debug\PHPUbotAddon.dll
+C:\Users\miztaken\Desktop\TJ\PHPUbotAddon\obj\Debug\PHPUbotAddon.pdb
